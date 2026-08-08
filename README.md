@@ -63,7 +63,7 @@ Coming soon.
 
 The current version focuses on building a working PDF-first research assistant with document retrieval, answer generation, verification and optional web search. One improvement I would like to make is a better and more interactive interface so that the application feels more like a proper research assistant rather than a basic question-answering page.
 
-I would also like to turn the current interface into a proper conversational chatbot where users can have a continuous conversation about the information they uploaded. This would allow follow-up questions without treating every question as completely separate. The chatbot could maintain relevant conversation context while still grounding its answers in the uploaded documents.
+I would also like to turn the current interface into a more conversational chatbot that can maintain context across follow-up questions. For every new question, the chatbot should first check the uploaded documents for the required information. If the information is available in the documents, it should answer using them; if it is not available, the chatbot should automatically search the web and use the web results to answer. This should also work for follow-up questions related to something discussed earlier in the conversation, making the interaction more natural while maintaining the PDF-first approach.
 
 Another improvement would be adding OCR support for scanned PDFs, since image-based documents may not provide usable text through normal PDF extraction. Retrieval could also be improved using hybrid search and reranking for questions where relevant information is spread across different parts of a document.
 
