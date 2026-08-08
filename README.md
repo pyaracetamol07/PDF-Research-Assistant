@@ -21,8 +21,11 @@ Python · Streamlit · LangChain · Google Gemini · ChromaDB · PyPDF · Tavily
 ## Project Structure
 
 app.py             → Streamlit application
+
 rag.py             → Retrieval, answer generation, verification and web search
+
 vector_db.py       → PDF processing and vector database creation
+
 requirements.txt  → Project dependencies
 
 ## Run Locally
