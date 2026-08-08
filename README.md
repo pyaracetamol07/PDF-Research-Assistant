@@ -57,7 +57,7 @@ Open the application: https://pdf-research-assistant-3boswrfzuxuwxs9gc3gcxj.stre
 
 ## Demo Video
 
-Coming soon.
+Demo Video link: https://drive.google.com/file/d/1l5HdourYrCR6PHsSRs-jZMgf7GBhrJSN/view?usp=drivesdk
 
 ## Improvement Write-up
 
