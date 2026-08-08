@@ -4,15 +4,16 @@ PDF Research Assistant is an AI-powered document research tool that lets users u
 
 ## Features
 
+
 * Upload up to 5 PDF files
 * Ask questions about uploaded documents
-* Semantic search using Gemini embeddings and ChromaDB
-* AI-generated answers using Gemini
-* Answer verification using the retrieved context
+* AI-generated answers based on the uploaded documents
 * PDF name and page number shown as sources
-* Optional web search using Tavily
+* Chat history for previous questions and answers
+* Optional web search when information is not found in the uploaded PDFs
 * Web sources shown for web-based answers
-* Simple Streamlit interface
+* Answer verification to improve reliability
+
 
 ## Tech Stack
 
