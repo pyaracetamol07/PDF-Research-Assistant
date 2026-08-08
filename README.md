@@ -31,13 +31,19 @@ requirements.txt  → Project dependencies
 ## Run Locally
 
 Install the dependencies:
+
 pip install -r requirements.txt
 
+
 Create a .env file with your API keys:
+
 GOOGLE_API_KEY=your_google_api_key
+
 TAVILY_API_KEY=your_tavily_api_key
 
+
 Run the application:
+
 streamlit run app.py
 
 
