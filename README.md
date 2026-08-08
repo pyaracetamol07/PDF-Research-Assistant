@@ -30,26 +30,26 @@ requirements.txt  → Project dependencies
 
 ## Run Locally
 
-Install the dependencies:
+1. Install the dependencies:
 
-pip install -r requirements.txt
-
-
-Create a .env file with your API keys:
-
-GOOGLE_API_KEY=your_google_api_key
-
-TAVILY_API_KEY=your_tavily_api_key
+    pip install -r requirements.txt
 
 
-Run the application:
+2. Create a .env file with your API keys:
 
-streamlit run app.py
+    GOOGLE_API_KEY=your_google_api_key
+
+    TAVILY_API_KEY=your_tavily_api_key
+
+
+3. Run the application:
+
+    streamlit run app.py
 
 
 ## GitHub Repository
 
-[View the source code](YOUR_GITHUB_REPOSITORY_LINK)
+To view the entire repository: https://github.com/pyaracetamol07/PDF-Research-Assistant.git
 
 ## Live Application
 
