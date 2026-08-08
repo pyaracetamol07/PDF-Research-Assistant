@@ -1,6 +1,6 @@
 # PDF Research Assistant
 
-PDF Research Assistant is an AI-powered document research tool that lets users upload PDFs, ask questions about their contents, and receive answers grounded in the uploaded documents with relevant sources. If the information is not available in the uploaded documents, the user can explicitly choose to search the web for additional information.
+PDF Research Assistant is an AI-powered document research tool that lets users upload PDFs, ask questions about their contents, and receive answers grounded in the uploaded documents with relevant sources. If the information is not available in the uploaded documents, the user can explicitly choose to search the web for additional information. Users can also view their chat history throughout the session.
 
 ## Features
 
